@@ -6,8 +6,8 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  webAppName: 'your-app-service-name'
-  azureSubscription: 'Your-Azure-Subscription-Service-Connection' # set in pipeline library
+  webAppName: 'app'
+  azureSubscription: 
 
 stages:
 - stage: BuildAndTest
