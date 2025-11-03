@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success
+1699000000000,120,POST /api/claim,201,Created,Thread Group 1-1,true
+1699000001000,100,GET /api/claim,200,OK,Thread Group 1-1,true
+1699000002000,150,POST /api/claim,201,Created,Thread Group 1-2,true

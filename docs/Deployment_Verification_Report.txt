@@ -1,0 +1,1 @@
+Deployment verification placeholder - run verify-deployment.ps1 to generate real results.
